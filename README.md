@@ -1,7 +1,7 @@
 # Musical Key by Genre Infographic
 ## An Infographic Exploring How Musical Key Varies Across Genres
 
-For this project, I used python code to transform raw data from a csv into a visually appealing infographic that displays the distribution of musical keys across various music genres. The infographic defines a musical key and explains the role they play in composition, as well as provides potential explanations for the trends observed. The dataset comes from Kaggle and contains just over 10,000 unique tracks drawn from the author's Spotify listening history in 2022.
+For this project, I used python code to transform raw data from a csv into a visually appealing infographic that displays the distribution of musical keys across various music genres. The infographic defines musical keys and explains the role they play in composition, as well as provides potential explanations for the trends observed. The dataset comes from Kaggle and contains just over 10,000 unique tracks drawn from the author's Spotify listening history in 2022.
 
 ## Architecture
 
